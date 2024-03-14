@@ -1,2 +1,4 @@
 # Personal-Portfolio
-I developed this Portfolio website using HTML , CSS, Javascript. 
+This is my Personal Portfolio created using HTML, CSS and JavaScript.
+https://atulkumarchhonker.github.io/Personal-Portfolio/
+
